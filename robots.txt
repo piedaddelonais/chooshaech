@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eelieloogh.inspire-project.info/sitemap.xml
